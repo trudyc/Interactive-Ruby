@@ -1,0 +1,20 @@
+2.1.3 :001 > def say_hi
+2.1.3 :002?>   puts "Hi, Trudy"
+2.1.3 :003?>   end
+ => :say_hi 
+2.1.3 :004 > say_hi
+Hi, Trudy
+ => nil 
+2.1.3 :005 > x = "hello"
+ => "hello" 
+2.1.3 :006 > Math.sqrt(1282)
+ => 35.805027579936315 
+2.1.3 :007 > Time.now
+ => 2015-04-29 03:06:41 +0000 
+2.1.3 :008 > Array.new(10, 'bee')
+ => ["bee", "bee", "bee", "bee", "bee", "bee", "bee", "bee", "bee", "bee"] 
+2.1.3 :009 > include Math
+ => Object 
+2.1.3 :010 > sqrt 64
+ => 8.0 
+2.1.3 :011 > 
